@@ -1,4 +1,20 @@
-h1 {
+.heading {
   text-align: center;
-  color: red;
+  padding: auto;
+  margin-top: 100px;
+}
+.temperature {
+  font-size: xx-large;
+  text-align: center;
+  font-weight: 900;
+}
+.city-day-time {
+  text-align: center;
+  font-size: xx-large;
+}
+.date {
+  font-size: small;
+}
+.description {
+  text-transform: capitalize;
 }
